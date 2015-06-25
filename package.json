@@ -1,0 +1,24 @@
+{
+  "name": "rsa-keypairs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolaj86/examples-rsa-keypairs.git"
+  },
+  "author": "AJ ONeal <coolaj86@gmail.com> (http://coolaj86.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/coolaj86/examples-rsa-keypairs/issues"
+  },
+  "homepage": "https://github.com/coolaj86/examples-rsa-keypairs#readme",
+  "dependencies": {
+    "bluebird": "^2.9.30",
+    "mkdirp": "^0.5.1",
+    "ursa": "^0.8.5"
+  }
+}
